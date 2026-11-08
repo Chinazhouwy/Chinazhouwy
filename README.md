@@ -9,7 +9,7 @@ Merged pull requests to community repositories:
 <!-- CONTRIBUTIONS:START -->
 | Repository | Pull Request | Status |
 | --- | --- | --- |
-| [tangyixiao/dsh-zcode-plan-bridge](https://github.com/tangyixiao/dsh-zcode-plan-bridge) | [#13 fix: locate darwin-aarch64 builtin releases and accept BigModel-family](https://github.com/tangyixiao/dsh-zcode-plan-bridge/pull/13) | ✅ Merged |
+| [tangyixiao/dsh-zcode-plan-bridge](https://github.com/tangyixiao/dsh-zcode-plan-bridge) | [#13 fix: locate darwin-aarch64 builtin releases and accept BigModel-family Start Plan logins](https://github.com/tangyixiao/dsh-zcode-plan-bridge/pull/13) | ✅ Merged |
 <!-- CONTRIBUTIONS:END -->
 
 ## 📊 GitHub Stats
