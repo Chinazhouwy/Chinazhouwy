@@ -6,6 +6,25 @@ Welcome to my GitHub profile!
 
 Merged pull requests to community repositories:
 
+<!-- CONTRIBUTIONS:START -->
+| Repository | Pull Request | Status |
+| --- | --- | --- |
+| [tangyixiao/dsh-zcode-plan-bridge](https://github.com/tangyixiao/dsh-zcode-plan-bridge) | [#13 fix: locate darwin-aarch64 builtin releases and accept BigModel-family](https://github.com/tangyixiao/dsh-zcode-plan-bridge/pull/13) | ✅ Merged |
+<!-- CONTRIBUTIONS:END -->
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Chinazhouwy&show_icons=true&count_private=true)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chinazhouwy&layout=compact)
+## Hi there 👋
+
+Welcome to my GitHub profile!
+
+## 🚀 Open Source Contributions
+
+Merged pull requests to community repositories:
+
 | Repository | Pull Request | Status |
 | --- | --- | --- |
 | [tangyixiao/dsh-zcode-plan-bridge](https://github.com/tangyixiao/dsh-zcode-plan-bridge) | [#13 fix: locate darwin-aarch64 builtin releases and accept BigModel-family](https://github.com/tangyixiao/dsh-zcode-plan-bridge/pull/13) | ✅ Merged |
